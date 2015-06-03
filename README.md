@@ -1,3 +1,10 @@
+##IMPORTANT NOTES ABOUT THE PLOT SCRIPTS IN THIS REPO:
+In order for the scripts to work, the following must be true:
+* The original data set (<b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a>) must be downloaded and unzipped in the working directory.
+* The package lubridate must be installed. There is no need to source it before execution, since the script will do it.
+* The scripts should be saved in the working directory
+
+
 ## Introduction
 
 This assignment uses data from
